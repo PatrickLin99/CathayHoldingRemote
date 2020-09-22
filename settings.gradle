@@ -1,0 +1,2 @@
+rootProject.name='CathayHolding_Android'
+include ':app'
